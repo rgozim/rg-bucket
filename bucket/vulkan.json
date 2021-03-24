@@ -1,5 +1,5 @@
 {
-    "version": "1.2.162.1",
+    "version": "1.2.170.0",
     "description": "SDK for new generation graphics and compute API",
     "homepage": "https://www.khronos.org/vulkan/",
     "license": {
@@ -11,7 +11,7 @@
         "Variety of drivers of different graphic card vendors could be found at the bottom of 'https://www.khronos.org/vulkan/'"
     ],
     "url": [
-        "https://sdk.lunarg.com/sdk/download/1.2.162.1/windows/VulkanSDK-1.2.162.1-Installer.exe#/dl.7z",
+        "https://sdk.lunarg.com/sdk/download/1.2.170.0/windows/VulkanSDK-1.2.170.0-Installer.exe#/dl.7z",
         "https://raw.githubusercontent.com/rgozim/rg-bucket/master/scripts/vulkan/install-debug-libs.ps1"
     ],
     "hash": [
