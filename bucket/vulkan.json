@@ -15,7 +15,7 @@
         "https://raw.githubusercontent.com/rgozim/rg-bucket/master/scripts/vulkan/install-debug-libs.ps1"
     ],
     "hash": [
-        "ada71bb25f5775c648048d22185d65c0bf49678ac1060e9fa79edcafe9816440",
+        "7086ca300c3995caf5b5dc1c3ef50251fa95b650ee1bf22c9f5f52b94b228d38",
         "2146A4D8280F170F661D7AB5D4962D1CAD83B39525A22962EE4917953913D597"
     ],
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstal*\" -Recurse",
