@@ -16,7 +16,7 @@
     ],
     "hash": [
         "7086ca300c3995caf5b5dc1c3ef50251fa95b650ee1bf22c9f5f52b94b228d38",
-        "D6016892A31F0D56C0BFA9496AE43552D79145D2A6BDF1B63B2485A60D8DE7AC"
+        "f9f1c8aa67be7ee0232a77bce3932e95a702059308838a0233ae27d5a10bd13e"
     ],
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstal*\" -Recurse",
     "post_install": "& \"$dir\\install-debug-libs.ps1\" $cachedir $dir $version",
