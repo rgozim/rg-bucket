@@ -19,7 +19,6 @@
         "d210675c49508197b01c400096e18ef6180435d3b1bee33597ecd5a76ac2aee7"
     ],
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstal*\" -Recurse",
-    "post_install": "& \"$dir\\install-debug-libs.ps1\" $cachedir $dir $version",
     "architecture": {
         "64bit": {
             "env_add_path": [
