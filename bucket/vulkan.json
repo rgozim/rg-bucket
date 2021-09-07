@@ -16,7 +16,7 @@
     ],
     "hash": [
         "7cd7b3b8728990f222ba3fd9b68981d9140412418a60013f2b27c19e610579be",
-        "d210675c49508197b01c400096e18ef6180435d3b1bee33597ecd5a76ac2aee7"
+        "391a2e0ad80f35bb07905f22e600098a49e0f675f1bcb725d58a13484a7be391"
     ],
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstal*\" -Recurse",
     "architecture": {
